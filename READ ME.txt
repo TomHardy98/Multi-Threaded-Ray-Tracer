@@ -1,0 +1,11 @@
+User Guide:
+
+Run program .exe file in the 'Release' folder
+
+Choose amount of threads to build on
+
+Image will be output to folder using .ppm format
+
+Times at the end of the demonstration video were tested in debug mode on a library PC and are subject to change dependant on what mode is ran and what PC it is being ran on
+
+Enjoy
